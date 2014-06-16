@@ -11,7 +11,9 @@
     "url": "git://github.com/thlorenz/procps-render.git"
   },
   "homepage": "https://github.com/thlorenz/procps-render",
-  "dependencies": {},
+  "dependencies": {
+    "blessed": "0.0.35"
+  },
   "devDependencies": {
     "procps": "~0.4.1",
     "tap": "~0.4.3"
